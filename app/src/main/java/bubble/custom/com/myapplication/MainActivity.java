@@ -10,6 +10,8 @@ import com.txusballesteros.bubbles.BubbleLayout;
 import com.txusballesteros.bubbles.BubblesManager;
 import com.txusballesteros.bubbles.OnInitializedCallback;
 
+//create bubble app.
+
 public class MainActivity extends AppCompatActivity {
 
     private BubblesManager bubblesManager;
