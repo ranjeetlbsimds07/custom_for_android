@@ -10,7 +10,7 @@ import com.txusballesteros.bubbles.BubbleLayout;
 import com.txusballesteros.bubbles.BubblesManager;
 import com.txusballesteros.bubbles.OnInitializedCallback;
 
-//create bubble app.
+//create bubble app. test aap
 
 public class MainActivity extends AppCompatActivity {
 
